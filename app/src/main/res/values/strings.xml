@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testing App</string>
+    <string name="tv_title_txt"><u>Home</u></string>
+    <string name="tv_title_txt2"><u>Simple Calculator</u></string>
+    <string-array name="Contacts">
+        <item>Mom</item>
+        <item>Dad</item>
+        <item>Kim</item>
+        <item>kibe</item>
+        <item>Chichi</item>
+        <item>Mercy</item>
+        <item>Cuzo</item>
+        <item>young Cuz</item>
+    </string-array>
+</resources>
